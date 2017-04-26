@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Araç Takip Sistemi</title>
+<meta name="Description" content="Bu sayfa Dokuz Eylül Üniversitesi Araç Takip Sistemi Web Sitesidir."/>
+<meta name="Copyright" content="2009-2017 Copyright | Dokuz Eylül Üniversitesi"/>
+<meta charset="UTF-8"/>
+</head>
+<body>
+	<img id="logo"/>
+	<img class="haberResimler"/>
+	<img class="haberResimler"/>
+	<a href="http://www.google.com"><img class="haberResimler" src="images/photo001.jpg"/></a>
+</body>
+</html>
