@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Araç Takip Sistemi</title>
+<meta name="Description" content="Bu sayfa Dokuz Eylül Üniversitesi Araç Takip Sistemi Web Sitesidir."/>
+<meta name="Copyright" content="2009-2017 Copyright | Dokuz Eylül Üniversitesi"/>
+<meta charset="UTF-8"/>
+</head>
+<body>
+<p>Hello World</p>
+<p><i><b>Hello World</b></i></p>
+<p>MERHABA			<code>DÜNYA</code></p>
+<h1>H1 Başlığı</h1>
+<h2>H2 Başlığı</h2>
+<h3>H3 Başlığı</h3>
+<h4>H4 Başlığı</h4>
+<h5>H5 Başlığı</h5>
+<abbr title="Yönetim Bilişim Sistemleri">YBS</abbr>
+<p>x<sub>2</sub></p>
+<p>x<sup>2</sup></p>
+<q>Alıntı</q>
+</body>
+</html>
