@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Araç Takip Sistemi</title>
+<meta name="Description" content="Bu sayfa Dokuz Eylül Üniversitesi Araç Takip Sistemi Web Sitesidir."/>
+<meta name="Copyright" content="2009-2017 Copyright | Dokuz Eylül Üniversitesi"/>
+<meta charset="UTF-8"/>
+</head>
+<body>
+<!--
+<div style="width:960px; height:70px; background-color:#000333; color:#ffffff">Header</div>
+<div style="width:320px; height:500px; background-color:yellow; float:left">Menu</div>
+<div style="width:640px; height:500px; background-color:red; float:left">Content</div>
+<div style="width:960px; height:70px; background-color:#000333; color:#ffffff; float:left">Footer</div>
+-->
+<iframe src="http://www.w3schools.com" style="width:100%; height:1024px; frameborder:0"></iframe>
+</body>
+</html>
