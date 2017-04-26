@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Araç Takip Sistemi</title>
+<meta name="Description" content="Bu sayfa Dokuz Eylül Üniversitesi Araç Takip Sistemi Web Sitesidir."/>
+<meta name="Copyright" content="2009-2017 Copyright | Dokuz Eylül Üniversitesi"/>
+<meta charset="UTF-8"/>
+</head>
+<body>
+<ul>
+	<li>Anasayfa</li>
+	<li>Araçlar</li>
+	<li>Personel</li>
+	<li>İletişim</li>
+</ul>
+<br>
+<i><h2>Web Site Taslağı</h2></i>
+<table border="1">
+	<tr>
+		<td style="width:960px; height:70px;" colspan="2">Head</td>
+	</tr>
+	<tr>
+		<td style="width:180px; height:500px;">Menu</td>
+		<td style="width:720px; height:500px;">Content</td>
+	</tr>
+	<tr>
+		<td style="width:960px; height:70px;" colspan="2">Footer</td>
+	</tr>
+</table>
+<br>
+<a href="mailto:test@test.com">Mail atmak için tıklayınız.</a>
+</body>
+</html>
