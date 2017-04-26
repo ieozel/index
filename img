@@ -10,6 +10,6 @@
 	<img id="logo"/>
 	<img class="haberResimler"/>
 	<img class="haberResimler"/>
-	<a href="http://www.google.com"><img class="haberResimler" src="images/photo001.jpg"/></a>
+	<a href="http://www.google.com"><img class="haberResimler" src="images/photo001.jpg" alt="NewYork"/></a>
 </body>
 </html>
