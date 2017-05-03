@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Araç Takip Sistemi</title>
+<meta name="Description" content="Bu sayfa Dokuz Eylül Üniversitesi Araç Takip Sistemi Web Sitesidir."/>
+<meta name="Keywords" content="Dokuz, Eylül, Üniversitesi, Araç, Takip, Sistemi"/>
+<meta name="Copyright" content="2009-2017 Copyright | Dokuz Eylül Üniversitesi"/>
+<link rel="stylesheet" href="style.css"/>
+<meta charset="UTF-8"/>
+</head>
+<body>
+<figure>
+<img src="images/photo001.jpg">
+<figcaption>Damla resmi</figcaption>
+</figure>
+<header>Bu bir header</header>
+<div id="header">Bu bir header</div>
+<section></section>
+<article>
+<details>
+<summary>Burası detayın başlığı</summary>
+<p>Bu bölüm de detay kısmı</p>
+</details>
+</article>
+<nav>
+</nav>
+<aside>
+</aside>
+<footer>
+</footer>
+</body>
+</html>
