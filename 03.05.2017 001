@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Araç Takip Sistemi</title>
+<meta name="Description" content="Bu sayfa Dokuz Eylül Üniversitesi Araç Takip Sistemi Web Sitesidir."/>
+<meta name="Keywords" content="Dokuz, Eylül, Üniversitesi, Araç, Takip, Sistemi"/>
+<meta name="Copyright" content="2009-2017 Copyright | Dokuz Eylül Üniversitesi"/>
+<link rel="stylesheet" href="style.css"/>
+<meta charset="UTF-8"/>
+</head>
+<body>
+<form action="gonder.php" method="POST">
+<input type="text" name="adi" id="adi" placeholder="Adınızı giriniz"/>
+<input type="text" name="soyadi" id="soyadi" placeholder="Soyadınızı giriniz"/>
+<input type="password"/>
+<input type="radio" />
+<select>
+<option value="0">Lise</option>
+<option value="1">Lisans</option>
+<option value="2">Yüksek Lisans</option>
+<option value="3">Doktora</option>
+</select>
+<input type="submit" value="Gönder"/>
+</form>
+</body>
+</html>
