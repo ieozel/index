@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>ecemMSM</title>
+<meta name="Description" content="ecemMSM makyaj&moda&sağlık Resmi Web Sitesi."/>
+<meta name="Keywords" content="ecemmsm, ecemsm, ecems, ecem, makyaj, moda, sağlık, makyaj bloğu, moda bloğu, sağlık bloğu, blogger, güzellik, bakım, spor, diyet, trend, öneri, fikir"/>
+<meta name="Copyright" content="2015-2017 Copyright | ecemMSM"/>
+<link rel="stylesheet" href="style.css"/>
+<meta charset="UTF-8"/>
+</head>
+<body>
+<div id="header">giriş yap | üye ol</div>
+<h1>LOGO</h1>
+<div id="banner"></div></br>
+<div class="menu"></br>
+  <a href="#" class="makyaj">makyaj</a></br></br>
+  <a href="#" class="moda">moda</a></br></br>
+  <a href="#" class="saglik">sağlık</a></br></br>
+  <a href="#" class="nedir">ecemMSM?</a>
+</div>
+<div id="content">Burası content'tir.</div>
+</br>
+<div id="footer">Copyright © 2017   |   Tüm Hakları Saklıdır   |   Gizlilik Politikası   |   İletişim
+</div>
+</body>
+</html>
