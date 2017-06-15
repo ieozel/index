@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>ecemMSM</title>
+<meta name="Description" content="ecemMSM makyaj&moda&sağlık Resmi Web Sitesi."/>
+<meta name="Keywords" content="ecemmsm, ecemsm, ecems, ecem, makyaj, moda, sağlık, makyaj bloğu, moda bloğu, sağlık bloğu, blogger, güzellik, bakım, spor, diyet, trend, öneri, fikir"/>
+<meta name="Copyright" content="2015-2017 Copyright | ecemMSM"/>
+<link rel="stylesheet" href="style.css"/>
+<meta charset="UTF-8"/>
+</head>
+<body>
+
+<div id="container"><!-- container hepsini kapsar; ustbanner da, solustbanner ve sagustbanner'i kapsar. bunu yapmak zorundasın!
+container'ın div'i en altta! -->
+
+<div id="ustbanner">
+	<div id="solustbanner">
+	</div>
+	<div id="ortaustbanner">
+	</div>
+	<div id="sagustbanner">giris yap | üye ol  </div>
+</div>
+
+<div id="banner">
+	<img id="logo" src="images/logo.jpg"/>
+	<div id="ortabanner">Makyaj</div>
+</div>
+<div id="Enbuyukicerik">
+<div id="pembeCizgi"></div>
+<div id="menu">
+	<ul id="menuListe">
+		<li class="menuListeLi">makyaj</li>
+		<li class="menuListeLi">moda</li>
+		<li class="menuListeLi">saglık</li>
+	</ul>
+</div>
+<div id="yaziKisim"><h1>2017 makyaj trendleri</h1>
+<h3>güclü ve karakteristik gözler!</h3>
+<img id="makyaj" src="images/2017mt.jpg"/>
+<p>     Sezonun cüretkar güzellik tavrı, gözlere de yansıyor. 2017 İlkbahar/Yaz sezonunda gözler hic olmadıgı kadar anlamlı ve cesur bakacak. Maxmara sovundaki fırca darbelerinden, Louis Vuitton sovundaki prizmatik kugulara, karakteristik gözler 4 moda kapitalini de etkisi altına aldı. Kadın hareketinin her gün daha da büyüdügü su günlerde, kadınlar gücünü gözleriyle de ortaya koyabilecek.</p>
+<h3>geri dönen 80'ler!</h3>
+<img id="saclar" src="images/saclar.jpg"/>
+<p>     Pop renkler ve allık hareketiyle geri dönüs sinyallerini aldıgımız 80'ler, bu sezon sonunda aramızda. Moda dünyasında birkac sezondur hos karsılanan 80'ler, simdi de güzellik dünyasını kucaklıyor. Marc Jacobs sovu, tartısma yaratan sürreal gökkusagı rastalarından renkli metalik göz makyajına, tüm ilhamını 80'lerin rave kültüründen alarak dönemin dönüsünü kesinlestirmis oldu. </p>
+</div>
+</div>
+
+
+
+<div class="footer">Copyright 2017   |   tüm hakları saklıdır 
+<img id="fb" src="images/fb.png"/>
+<img id="twt" src="images/twt.png"/>
+<img id="insta" src="images/insta.png"/>
+<img id="pint" src="images/pint.png"/>
+<img id="ggl" src="images/ggl.png"/></div>
+</div>
+</body>
+</html> 
+<!-- border:none yerine border:0px de olabilir -->
